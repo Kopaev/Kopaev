@@ -8,7 +8,7 @@ Full-stack developer building travel & vanlife tools.
 
 - **[openvan.camp](https://openvan.camp)** — Multilingual vanlife news aggregator (7 languages, Laravel + AI clustering)
 - **[Public API](https://github.com/Kopaev/openvan-camp-public-api)** — Free API: fuel prices, currency rates & food costs in 120+ countries
-- **VanLife Android Apps** — Scheduling and travel companion apps for van dwellers
+- **[Android App](https://github.com/Kopaev/VanLife-App-Releases)** — Official openvan.camp app: news, events, currency converter, visa calculators
 
 ---
 
